@@ -1,0 +1,27 @@
+.contenedor {
+    width: 400px;
+    height: 400px;
+    margin: 0 auto;
+}
+
+.hijo {
+
+}
+
+
+.addClass{
+    border-color: red;
+}
+
+
+.texto-rojo {
+    color: red;
+}
+
+.texto-azul {
+    color: blue;
+}
+
+.color-rojo {
+  color: red !important; /* Usa !important para asegurar que la clase sobrescriba otros estilos */
+}

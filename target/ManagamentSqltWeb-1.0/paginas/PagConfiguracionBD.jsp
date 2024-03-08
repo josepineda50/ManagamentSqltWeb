@@ -34,7 +34,7 @@
                                 <b-card>
                                     <b-row class="my-1">
                                         <b-col sm="4">
-                                            <label for="input-small">Motor de Base de datos</label>
+                                            <label for="input-small">Driver</label>
                                             <b-col sm="">
                                                 <v-select 
                                                     v-model="GestorBD"

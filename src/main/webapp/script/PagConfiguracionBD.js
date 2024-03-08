@@ -2,9 +2,7 @@
 Vue.component('v-select', VueSelect.VueSelect);
 
 Vue.component('loadin', {
-    template: `<div class="centerx">
-    <vs-button @click="openLoading" type="filled" color="primary">Loading Default</vs-button>
-  </div>`
+    template: `<div class="centerx"></div>`
 })
 
 
